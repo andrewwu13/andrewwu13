@@ -8,4 +8,4 @@ I'm currently an engineering student at McMaster University interested in softwa
 
 ## 📫 Get In Touch
 - [LinkedIn](https://www.linkedin.com/in/andrew-wu-3a7842241/)  
-- 📧 [andrewwuca@example.com](mailto:andrewwuca@gmail.com)
+- 📧 [andrewwuca@gmail.com](mailto:andrewwuca@gmail.com)
