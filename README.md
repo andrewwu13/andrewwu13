@@ -7,5 +7,5 @@ I'm currently a first-year engineering student at McMaster University, Ontario, 
 ---
 
 ## 📫 Get In Touch
-- [LinkedIn](https://www.linkedin.com/in/andrew-wu-3a7842241/)  
+- [LinkedIn](https://www.linkedin.com/in/andrew-wu13/)  
 - 📧 [andrewwuca@gmail.com](mailto:andrewwuca@gmail.com)
