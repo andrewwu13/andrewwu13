@@ -1,11 +1,16 @@
-# Hi there 👋, I'm Andrew Wu!
+# Andrew Wu
 ---
-I'm currently a first-year engineering student at McMaster University, Ontario, interested in software and ML development. I am building intelligent, creative systems to tackle interdisciplinary problems 💡.
-- 🧠 **Interests**: AI/ML Applications, Full-Stack Web Development, Robotics & Embedded Systems
-- 🌱 **Currently**: Check out my starred repo's! I'm contributing to a few open source projects within my school, like a deepfake detection model and InterfaceAI -- a web browser automation agent!
+software engineer | open source developer 
+[LinkedIn](https://www.linkedin.com/in/andrew-wu13/) [andrewwuca@gmail.com](mailto:andrewwuca@gmail.com) [Github](https://github.com/andrewwu13)
 
 ---
+## About Me
+Software engineering student at McMaster University with experience in CNN architectures, ML systems, and full-stack development. Currently building custom 6-channel gradient field CNN and fusion model to detect synthetic AI-generated images. 
 
-## 📫 Get In Touch
-- [LinkedIn](https://www.linkedin.com/in/andrew-wu13/)  
-- 📧 [andrewwuca@gmail.com](mailto:andrewwuca@gmail.com)
+Avid open source software developer interested in AI/ML applications, full-stack development, and robotics. x2 Hacakthon Winner. Check out my repositories and starred repositories that I've been contributing to.
+
+---
+## Featured Projects
+
+### Employment Bot -- Discord bot to automate ATS systems
+
