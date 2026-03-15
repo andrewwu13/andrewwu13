@@ -38,7 +38,6 @@ Building a custom Discord bot + application platform to scrape and publish job p
 - Built a full-stack deepfake detection platform using Next.js and FastAPI, allowing users to upload media and receive real-time authenticity analysis.
 - Containerized and deployed the ML inference pipeline with Docker and Kubernetes, integrating NGINX and Redis to support scalable, low-latency predictions.
 - Designed backend APIs and asynchronous processing flows to handle compute-heavy inference while keeping the frontend responsive.
-- Contributed to an end-to-end production ML system — from model integration to cloud deployment — bridging research and real-world usability.
 
 ### Open Source Developer | Google Developer Groups
 *Sept 2025 - Present | Hamilton, Ontario*
@@ -46,7 +45,6 @@ Building a custom Discord bot + application platform to scrape and publish job p
 - Developed a React-based Chrome (Manifest V3) extension that enables natural language web automation directly in the browser.
 - Implemented a FastAPI + WebSocket backend to support live agent reasoning and real-time browser interaction.
 - Integrated OCR-assisted DOM parsing to improve automation reliability on dynamic or partially rendered pages.
-- Contributed in an open-source environment, collaborating on architecture decisions and building tools that empower developers to automate the web more intuitively.
 
 ### Full Stack Developer | McMaster Solar Car Project
 *Sept 2025 - Present | Hamilton, Ontario*
@@ -54,7 +52,6 @@ Building a custom Discord bot + application platform to scrape and publish job p
 - Deployed an LGTM observability stack (Loki, Grafana, Tempo, Mimir) integrated with OpenTelemetry to monitor and trace team-operated services.
 - Built CI/CD pipelines with GitHub Actions to automate testing and deployment of internal web tools.
 - Strengthened backend reliability using FastAPI and Jinja2, implementing structured error handling and validation.
-- Helped modernize the team’s software infrastructure, ensuring race-critical tools are stable, observable, and maintainable.
 
 ### Software Developer | McMaster Exoskeleton
 *Sept 2025 - Present | Hamilton, Ontario*
@@ -62,4 +59,3 @@ Building a custom Discord bot + application platform to scrape and publish job p
 - Developed a Temporal Convolutional Network (TCN) in PyTorch to predict joint angles from IMU sensor data for gait estimation.
 - Achieved high-accuracy movement predictions (±5°), enabling more responsive and adaptive exoskeleton control.
 - Worked at the intersection of machine learning and biomechanics, translating raw sensor streams into meaningful motion insights.
-- Collaborated across hardware and software teams to integrate the model into a broader assistive robotics system.
