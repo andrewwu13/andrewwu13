@@ -8,7 +8,7 @@
 
 ---
 ## About Me
-Software engineering student at McMaster University with experience in CNN architectures, ML systems, and full-stack development. Currently building custom 6-channel gradient field CNN and fusion model to detect synthetic AI-generated images. 
+Software engineering student at McMaster University with experience in neural net architectures, ML systems, and full-stack development. Currently building custom 6-channel gradient field CNN and fusion model to detect synthetic AI-generated images. 
 
 Avid open source software developer interested in AI/ML applications, full-stack development, and robotics | x2 Hacakthon Winner 🏆
 
