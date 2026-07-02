@@ -1,6 +1,6 @@
 # Andrew Wu
 
-**Software Engineer | Open Source Developer**
+**Computer Engineer | Open Source Developer**
 
 [![GitHub](https://img.shields.io/badge/GitHub-andrewwu13-181717?style=flat&logo=github)](https://github.com/andrewwu13)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-andrewwu-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrew-wu13/)
@@ -8,11 +8,11 @@
 
 ---
 ## About Me
-Software engineering student at McMaster University with experience in neural net architectures, ML systems, and full-stack development. Currently building custom 6-channel gradient field CNN and fusion model to detect synthetic AI-generated images. 
+Computer engineering student at McMaster University with experience in neural net architectures, ML systems, and full-stack development. 
 
 Avid open source software developer interested in AI/ML applications, full-stack development, and robotics | x2 Hacakthon Winner 🏆
 
-Check out my repositories and starred repositories to see what  I've been contributing to.
+Check out my repositories and starred repositories to see what I've been contributing to :)
 
 ---
 ## Featured Project
@@ -32,30 +32,28 @@ Building a custom Discord bot + application platform to scrape and publish job p
 ---
 ## Experience
 
-### Software Developer | McMaster Artificial Intelligence Society
-*Oct 2025 - Present | Hamilton, Ontario*
+[Checkout my resume first!](https://www.overleaf.com/read/pzhvxcbsxymh#53d74c)
 
-- Built a full-stack deepfake detection platform using Next.js and FastAPI, allowing users to upload media and receive real-time authenticity analysis.
-- Containerized and deployed the ML inference pipeline with Docker and Kubernetes, integrating NGINX and Redis to support scalable, low-latency predictions.
-- Designed backend APIs and asynchronous processing flows to handle compute-heavy inference while keeping the frontend responsive.
+### Independent Trading Group
+**DevOps Analyst Intern** | *Python, Bash, Linux, VBA*  
+- Automated operational reporting and engineered custom logging tools for distributed trading systems to accelerate debugging and minimize system downtime.
 
-### Open Source Developer | Google Developer Groups
-*Sept 2025 - Present | Hamilton, Ontario*
+###  Vivirion Solutions Inc.
+**Full Stack Engineer** | *Astro, React, Supabase, PostHog, OpenTelemetry*  
+- Architected and deployed full-stack, AI-powered health-tech platforms from the ground up, scaling user-matching and digital care navigation to hundreds of paying customers.
 
-- Developed a React-based Chrome (Manifest V3) extension that enables natural language web automation directly in the browser.
-- Implemented a FastAPI + WebSocket backend to support live agent reasoning and real-time browser interaction.
-- Integrated OCR-assisted DOM parsing to improve automation reliability on dynamic or partially rendered pages.
+### McMaster Artificial Intelligence Society
+**Software Developer** | *Pytorch, Python, React, Next.js, FastAPI, Colab*
+- Built a full-stack deepfake detection platform enabling real-time media authenticity analysis and processing.
 
-### Full Stack Developer | McMaster Solar Car Project
-*Sept 2025 - Present | Hamilton, Ontario*
+### Google Developer Groups
+**Open Source Developer** | *React, JavaScript/TypeScript, LangGraph, Playwright*
+- Developed a Chrome extension that enables natural language web automation directly within the browser interface.
 
-- Deployed an LGTM observability stack (Loki, Grafana, Tempo, Mimir) integrated with OpenTelemetry to monitor and trace team-operated services.
-- Built CI/CD pipelines with GitHub Actions to automate testing and deployment of internal web tools.
-- Strengthened backend reliability using FastAPI and Jinja2, implementing structured error handling and validation.
+### McMaster Solar Car Project
+**Full Stack Developer** | *Grafana, Prometheus, OpenTelemetry, Sentry, GitHub Actions*
+- Engineered cloud infrastructure, developer tooling, and automated pipelines to optimize platform performance and delivery speed.
 
-### Software Developer | McMaster Exoskeleton
-*Sept 2025 - Present | Hamilton, Ontario*
-
-- Developed a Temporal Convolutional Network (TCN) in PyTorch to predict joint angles from IMU sensor data for gait estimation.
-- Achieved high-accuracy movement predictions (±5°), enabling more responsive and adaptive exoskeleton control.
-- Worked at the intersection of machine learning and biomechanics, translating raw sensor streams into meaningful motion insights.
+### McMaster Exoskeleton
+**Software Developer** | *PyTorch, Python, NumPy, Raspberry Pi 5, CAN bus*
+- Designed and trained temporal convolutional networks (TCNs) for lower-limb joint-angle estimation from multimodal sensor data.
