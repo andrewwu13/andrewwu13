@@ -16,7 +16,7 @@ Check out my repositories and starred repositories to see what I've been contrib
 
 ---
 ## Featured Project
-### [Employment Bot](https://github.com/andrewwu13/employment-bot) - Discord Bot to Automate ATS
+### [Employment Bot](https://github.com/andrewwu13/employment-bot) - Discord Bot to Automate Job Applications
 *Dec 2025 - Present | Node.js, Playwright, JS, GCP*
 
 Building a custom Discord bot + application platform to scrape and publish job postings for real-time notifications and resume matching. 
