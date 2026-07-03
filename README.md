@@ -30,30 +30,4 @@ Building a custom Discord bot + application platform to scrape and publish job p
 **Impact:** Helped streamline internship/job discovery by automatically surfacing high-relevance postings in real time.
 
 ---
-## Experience
-
 [Checkout my resume first!](https://www.overleaf.com/read/pzhvxcbsxymh#53d74c)
-
-### Independent Trading Group
-**DevOps Analyst Intern** | *Python, Bash, Linux, VBA*  
-- Automated operational reporting and engineered custom logging tools for distributed trading systems to accelerate debugging and minimize system downtime.
-
-###  Vivirion Solutions Inc.
-**Full Stack Engineer** | *Astro, React, Supabase, PostHog, OpenTelemetry*  
-- Architected and deployed full-stack, AI-powered health-tech platforms from the ground up, scaling user-matching and digital care navigation to hundreds of paying customers.
-
-### McMaster Artificial Intelligence Society
-**Software Developer** | *Pytorch, Python, React, Next.js, FastAPI, Colab*
-- Built a full-stack deepfake detection platform enabling real-time media authenticity analysis and processing.
-
-### Google Developer Groups
-**Open Source Developer** | *React, JavaScript/TypeScript, LangGraph, Playwright*
-- Developed a Chrome extension that enables natural language web automation directly within the browser interface.
-
-### McMaster Solar Car Project
-**Full Stack Developer** | *Grafana, Prometheus, OpenTelemetry, Sentry, GitHub Actions*
-- Engineered cloud infrastructure, developer tooling, and automated pipelines to optimize platform performance and delivery speed.
-
-### McMaster Exoskeleton
-**Software Developer** | *PyTorch, Python, NumPy, Raspberry Pi 5, CAN bus*
-- Designed and trained temporal convolutional networks (TCNs) for lower-limb joint-angle estimation from multimodal sensor data.
