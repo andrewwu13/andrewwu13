@@ -10,7 +10,7 @@
 ## About Me
 Computer engineering student at McMaster University with experience in neural net architectures, ML systems, and full-stack development. 
 
-Avid open source software developer interested in AI/ML applications, full-stack development, and robotics | x2 Hacakthon Winner 🏆
+Avid open source software developer interested in AI/ML applications, full-stack development, and robotics | 3x Hacakthon Winner 🏆
 
 Check out my repositories and starred repositories to see what I've been contributing to :)
 
